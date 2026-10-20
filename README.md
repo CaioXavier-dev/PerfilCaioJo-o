@@ -26,7 +26,7 @@ Olá! Sou um estudante de programação em tecnologia, aprendizado contínuo e r
 ## Contato
 
 - 📧 Email: CJcaioxavier@gmail.com
-- 💼 LinkedIn: linkedin.com/in/seu-perfil
+- 💼 LinkedIn: Caio joão
 - 🐙 GitHub: cjcaioxavier2021-ux
 
 ## Frase de motivação
