@@ -1,4 +1,4 @@
-# Caio João Xavier da Costa
+# Caio João Xavier Da Costa
 
 Olá! Sou um estudante de programação em tecnologia, aprendizado contínuo e resolução de problemas. Estou em constante evolução, explorando linguagens e ferramentas que me ajudam a transformar ideias em projetos reais.
 
